@@ -2,3 +2,6 @@
 // TODO: Create let variable 'grade' with a number
 // TODO: Print both
 
+const studentID = "Swvsd3";
+let grade = 67;
+console.log(studentID, grade);
