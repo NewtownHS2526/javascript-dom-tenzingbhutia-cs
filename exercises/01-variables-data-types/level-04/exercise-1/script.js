@@ -2,4 +2,4 @@
 // TODO: Print it using console.log()
 
 var name = "Tenzing"
-console.log(name)
+console.log(name);

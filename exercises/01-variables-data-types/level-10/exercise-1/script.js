@@ -2,5 +2,5 @@
 // TODO: Print it using console.log()
 
 let name = "Alice is back";
-name = "Tenz"
+name = "Tenz";
 console.log(name);
