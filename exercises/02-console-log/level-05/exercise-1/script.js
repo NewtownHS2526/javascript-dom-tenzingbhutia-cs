@@ -1,2 +1,3 @@
-// TODO: Use console.log() to print "Hello, World!"
+// TODO: Use console.log() to print "Hello, World!"console.log("Tashi Delek");
+console.log("BUON GIORNO");
 
