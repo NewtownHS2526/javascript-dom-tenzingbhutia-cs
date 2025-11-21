@@ -2,3 +2,8 @@
 // Example: let text = "HELLO";
 //          let lower = text.toLowerCase();
 
+let text = "HELLO WORLD";
+let a = 6.7;
+let lower = text.toLowerCase();
+console.log(lower , Math.ceil(a));
+console.log(text.length());
