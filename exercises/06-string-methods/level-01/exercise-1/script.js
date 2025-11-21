@@ -2,3 +2,6 @@
 // Example: let text = "hello";
 //          let upper = text.toUpperCase();
 
+let text = "hello world";
+let upper = text.toUpperCase();
+console.log(upper); 

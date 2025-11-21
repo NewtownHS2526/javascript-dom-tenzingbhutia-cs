@@ -3,3 +3,7 @@
 //          let lastName = "Doe";
 //          let fullName = firstName + " " + lastName;
 
+let first = "Ten";
+let last = "Ghosh";
+let fullName = first + " " + last;
+console.log(fullName);
