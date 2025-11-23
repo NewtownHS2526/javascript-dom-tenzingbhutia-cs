@@ -8,3 +8,11 @@
 //     console.log("Senior");
 // }
 
+let score = 95;
+if (score < 90) {
+    console.log("Excellent");
+} else if (age < 65) {
+    console.log("failed");
+} else {
+    console.log("good");
+}

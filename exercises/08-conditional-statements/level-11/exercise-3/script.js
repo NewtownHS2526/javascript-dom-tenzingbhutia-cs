@@ -8,3 +8,11 @@
 //     console.log("Senior");
 // }
 
+let age = [0,1,2,3];
+if (String(age).includes("0,1,2,9")) {
+    console.log("Min");
+} else if (age < 65) {
+    console.log("Adult");
+} else {
+    console.log("Senior");
+}
