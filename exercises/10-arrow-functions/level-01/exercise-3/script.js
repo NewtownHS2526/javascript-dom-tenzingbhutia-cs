@@ -4,3 +4,7 @@
 //     return "Hi!";
 // };
 
+const a =() => {
+    return "a is a letter";
+}
+console.log(a());

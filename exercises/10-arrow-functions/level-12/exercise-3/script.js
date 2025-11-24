@@ -4,3 +4,14 @@
 //     return "Hi!";
 // };
 
+const sayHi = (name) => {
+    if (name) {
+        return `Hi, ${name}!`;
+    } else {
+        return "Hi!";
+    }
+};
+
+// 
+console.log(sayHi());        
+console.log(sayHi("Alice")); 

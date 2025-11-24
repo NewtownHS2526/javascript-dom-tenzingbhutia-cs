@@ -4,3 +4,7 @@
 //     return x * 2;
 // };
 
+const triple = (x) => { 
+    return x * 3;
+}
+console.log(triple(x));

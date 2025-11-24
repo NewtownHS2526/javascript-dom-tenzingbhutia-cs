@@ -4,3 +4,11 @@
 //     return x * 2;
 // };
 
+const double = (x) => {
+    const result = x * 2;
+
+    return result;
+};
+
+const value = 5;
+console.log("Doubled value:", double(value));
