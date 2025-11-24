@@ -2,6 +2,7 @@
 // Example:
 // function greet(name) {
 //     return "Hello, " + name;
+<<<<<<< HEAD
 // }
 let pass = 1234;
 let username = "tenz";
@@ -16,3 +17,6 @@ function code(pass, username){
     }
 }
 console.log(code(1234,"thui"));
+=======
+// 
+>>>>>>> 4cd911dc42f201686d56b266c52d53f3652ab53e

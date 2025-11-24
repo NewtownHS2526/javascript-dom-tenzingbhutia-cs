@@ -4,4 +4,11 @@
 // if (age >= 18) {
 //     console.log("Adult");
 // }
-
+let age = 20;
+let age2 = 22;
+if (age <= age2) {
+    console.log("he is older");
+}
+else {
+    console.log("he is not older")
+}

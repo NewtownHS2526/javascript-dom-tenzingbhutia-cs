@@ -8,3 +8,11 @@
 //     console.log("Senior");
 // }
 
+let cost = 25;
+if (cost <= 20) {
+    console.log("reasonable");
+} else if (cost < 100) {
+    console.log(" Expensive");
+} else {
+    console.log(" out of budget");
+}

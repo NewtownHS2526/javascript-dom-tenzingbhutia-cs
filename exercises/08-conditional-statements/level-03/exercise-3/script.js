@@ -8,3 +8,11 @@
 //     console.log("Senior");
 // }
 
+let age = 12;
+if (age < 18) {
+    console.log("highscool");
+} else if (age <13) {
+    console.log("mid school");
+} else {
+    console.log("college");
+}

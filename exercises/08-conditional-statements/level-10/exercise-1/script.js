@@ -5,3 +5,7 @@
 //     console.log("Adult");
 // }
 
+let age = 20;
+if (age >= 18) {
+    console.log(` He is an adult and is ${age} years old.`);
+}

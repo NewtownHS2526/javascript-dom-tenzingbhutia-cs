@@ -3,4 +3,7 @@
 // function greet(name) {
 //     return "Hello, " + name;
 // }
-
+function sentence(text){
+    return " Hello, "+ text + ". How are you";
+}
+console.log(sentence("Tenz"));

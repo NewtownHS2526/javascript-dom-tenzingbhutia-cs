@@ -4,4 +4,7 @@
 // if (age >= 18) {
 //     console.log("Adult");
 // }
-
+let score = 75;
+if (score >= 75) {
+    console.log("passed");
+}

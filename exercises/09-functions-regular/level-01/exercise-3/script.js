@@ -4,3 +4,7 @@
 //     return "Hello!";
 // }
 
+function sayHello() {
+    return "Nameste( Hello in hindi )!";
+}
+console.log(sayHello());
